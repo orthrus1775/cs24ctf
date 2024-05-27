@@ -17,6 +17,12 @@ Flag format: `cs24{cracked_pw}`
 
 ### Crack 3:
 
-File provided: `crack3`
+File provided: `crack3.zip`
+
+Flag format: `cs24{flag_from_zip}`
+
+### Crack 4:
+
+File provided: `crack4`
 
 Flag format: `cs24{cracked_pw}`
