@@ -1,5 +1,6 @@
-Flag 1: **cs24{compression_aggression_is_a_real_thing}**
-Flag 2: **120**
+Flag 1 - Dig all the way to the bottom to get the flag! - **cs24{compression_aggression_is_a_real_thing}**
+
+Flag 2 - How many layers of compression are there? - **120**
 
 ---
 

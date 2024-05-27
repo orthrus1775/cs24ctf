@@ -1,5 +1,6 @@
-Flag 1: **cs24{pigpen cipher}**
-Flag 2: **cs24{the pig says oinkoink}**
+Flag 1 - What type of cryptography is being used? - **cs24{pigpen cipher}**
+
+Flag 2 - What is the decoded message? - **cs24{the pig says oinkoink}**
 
 ---
 
